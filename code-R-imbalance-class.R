@@ -4,7 +4,7 @@
 # https://github.com/tobigithub/caret-machine-learning
 # Tobias Kind (2015)
 
-# use mlbench, caret and DT library
+# use mlbench, caret and DT library.
 install.packages(c("mlbench", "caret", "DT"))
 require(mlbench)
 require(caret)
